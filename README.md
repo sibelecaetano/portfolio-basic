@@ -43,7 +43,6 @@ git clone https://github.com/sibelecaetano/portfolio-basic.git
 Este projeto faz parte da evolução do meu portfólio front-end. Versões futuras incluem JavaScript, responsividade avançada e melhorias de acessibilidade.
 
 ## Autora
-Sibele Caetano
 Estudante de Análise e Desenvolvimento de Sistemas
 
 Sibele Caetano
